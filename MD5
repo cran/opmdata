@@ -1,0 +1,10 @@
+b0d1356668150d8eef84e41f29b283e2 *COPYING
+4a38b8d147fb7e7d96723285ffb17dca *ChangeLog
+eda86866e114b080046d5d26a0000230 *DESCRIPTION
+d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
+0e1918e5ecaba601689d2fda16a465c0 *NEWS
+a1061dca8d8956bd7f6f4f8e5be9d213 *R/data.R
+f1de18a8e10e4a3c0fbd5cf6ead0562f *data/datalist
+ed4bd602ccfcdad22c955fd889ebd45a *data/vaas_et_al.rda
+f859803e3e3f7bd0ed6c53df0742bee1 *inst/CITATION
+ce56168e8056db989c7d1c9d805a45b4 *man/vaas_et_al.Rd
