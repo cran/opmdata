@@ -1,4 +1,10 @@
 
+2012-11-13 (the second release on CRAN)
+
+- updated the package URL
+- included discretized values; has_disc() returns now TRUE for all plates
+- include more information on the contained in the documentation
+
 
 2012-10-13 (the first release on CRAN)
 

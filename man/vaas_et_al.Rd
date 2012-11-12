@@ -8,17 +8,26 @@
   have 384 time points).}
 \description{
   This \code{OPMS} object contains all measurements from
-  the study by Vaas et al. (2012). Metadata have been added
-  to fully describe the conducted PM experiments. The plate
-  type is \sQuote{Generation III}, but the running mode was
-  as for PM plates. Four bacterial strains from two species
-  were considered in the study. For the three publicly
-  accessible ones, the URLs of their DSMZ catalog entries
-  are given below.
+  the study by Vaas \emph{et al.} (2012). Metadata have
+  been added to fully describe the conducted PM
+  experiments. The plate type is \sQuote{Generation III},
+  but the running mode was as for PM plates. Four bacterial
+  strains from two species were considered in the study.
+  For the three publicly accessible ones, the URLs of their
+  DSMZ catalog entries are given below.
+}
+\details{
+  All plates also contain aggregated and discretized values
+  generated \emph{via} \code{do_aggr} and \code{do_disc}
+  from the \pkg{opm} package under default values.
 }
 \examples{
 data(vaas_et_al)
-stopifnot(dim(vaas_et_al) == c(114, 384, 96), has_aggr(vaas_et_al))
+plate_type(vaas_et_al) # should indicate generation-III plates
+(d <- dim(vaas_et_al))
+(ha <- has_aggr(vaas_et_al))
+(hd <- has_disc(vaas_et_al))
+stopifnot(d == c(114, 384, 96), ha, hd)
 }
 \references{
   Vaas, L. A. I., Sikorski, J., Michael, V., Goeker, M.,
