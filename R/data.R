@@ -10,10 +10,11 @@
 #'
 #' This \code{OPMS} object contains all measurements from the study by
 #' Vaas \emph{et al.} (2012). Metadata have been added to fully describe the
-#' conducted PM experiments. The plate type is \sQuote{Generation III}, but the
-#' running mode was as for PM plates. Four bacterial strains from two species
-#' were considered in the study. For the three publicly accessible ones, the
-#' URLs of their DSMZ catalog entries are given below.
+#' conducted OmniLog\eqn{\textsuperscript{\textregistered}}{(R)} phenotype
+#' microarray experiments. The plate type is \sQuote{Generation III}, but the
+#' running mode was as for \sQuote{PM} plates. Four bacterial strains from two
+#' species were considered in the study. For the three publicly accessible
+#' ones, the web links to their \acronym{DSMZ} catalog entries are given below.
 #'
 #' @docType data
 #' @keywords datasets
@@ -54,3 +55,4 @@ NULL
 
 
 ################################################################################
+
