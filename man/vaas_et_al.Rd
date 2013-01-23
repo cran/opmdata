@@ -1,7 +1,7 @@
 \docType{data}
 \name{vaas_et_al}
 \alias{vaas_et_al}
-\title{Example dataset from Vaas et al. (2012)}
+\title{Example data set from Vaas et al. (2012)}
 \format{\code{OPMS} object with the dimensions 114 x 384 x 96, i.e.
   114 plates with 384 time points and 96 wells per plate. (10 plates have
   364, 365, 368 or 371 time points, respectively; the remaining 74 plates

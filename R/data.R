@@ -2,11 +2,11 @@
 ################################################################################
 ################################################################################
 #
-# Descriptions of all datasets included in the package
+# Descriptions of all data sets included in the package
 #
 
 
-#' Example dataset from Vaas et al. (2012)
+#' Example data set from Vaas et al. (2012)
 #'
 #' This \code{OPMS} object contains all measurements from the study by
 #' Vaas \emph{et al.} (2012). Metadata have been added to fully describe the
