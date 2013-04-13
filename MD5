@@ -1,11 +1,11 @@
 b0d1356668150d8eef84e41f29b283e2 *COPYING
 bcf05b1d65f6520ddd9b8a8856c05609 *ChangeLog
-2fe396de3bef06c82aa0110016c23912 *DESCRIPTION
+b78ae9c4db5df7eaa0b20243d4f75926 *DESCRIPTION
 d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
 45aa765871a14231e800cb14170e5f80 *NEWS
 2f4dc246a3cfcb3166d798f2acfa7d54 *R/data.R
 d579e5a07e04cbc9f56ac58f4a541e11 *R/hooks.R
 f1de18a8e10e4a3c0fbd5cf6ead0562f *data/datalist
-c4a3fdaca55a7eacc5ea718dce2f57a8 *data/vaas_et_al.rda
+de3faa872ab2240451a1f7db7c0fe4be *data/vaas_et_al.rda
 f859803e3e3f7bd0ed6c53df0742bee1 *inst/CITATION
-36f9dcc8bda66042b8f7410b4e057808 *man/vaas_et_al.Rd
+d800122381df3b6b995227454db8c20c *man/vaas_et_al.Rd
