@@ -1,3 +1,10 @@
+2014-03-20 (the seventh release on CRAN)
+
+- added data set from Wittmann et al. (2014)
+
+- added data set from Montero-Calasanz et al. (2013)
+
+
 2013-10-20 (the sixth release on CRAN)
 
 - modified DESCRIPTION to silence the note during CRAN checking
